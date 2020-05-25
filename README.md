@@ -1,10 +1,6 @@
 # Strigo Template
  Bootstrap 4 Template
  
- ## Authors
-
-* **Giuseppe Gigliotti** - *Initial work* - [ReverbOD](https://gigliottigiuseppe.it)
- 
 ## Built With
 * [Bootstrap 4](https://getbootstrap.com/docs/4.0/getting-started/introduction/) - The world’s most popular CSS framework for building responsive, mobile-first sites.
 * [JQuery](https://jquery.com/) - jQuery is a fast, small, and feature-rich JavaScript library.
