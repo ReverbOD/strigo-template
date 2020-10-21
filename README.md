@@ -11,6 +11,6 @@
 * [Venobox](https://veno.es/venobox/) - Just another responsive jQuery Lightbox plugin, suitable for images, inline contents, iFrames, Google-Maps, Ajax requests, Vimeo and YouTube videos.
 
 ## See it
-[Preview](https://gigliottigiuseppe.it/strigo/index.html)
+[Preview](https://reverbod.github.io/strigo-template/)
 
 
